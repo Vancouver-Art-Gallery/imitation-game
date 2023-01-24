@@ -1,7 +1,7 @@
 ---
-epub: false
-title: Catalogue
+title: "Special Projects: Pause"
 layout: table-of-contents
 presentation: grid
-order: 100
+order: 300
 ---
+
