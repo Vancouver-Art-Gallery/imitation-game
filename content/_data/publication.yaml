@@ -31,12 +31,12 @@ language: en
 pub_type: book # book | journal-periodical | other
 
 identifier:
-  isbn:
+  isbn: "978-1-927656-55-6"
 
 publisher:
   - name: Vancouver Art Gallery
     location: Vancouver
-    url:
+    url: "https://www.vanartgallery.bc.ca/"
     logo: vaglogo.png
 
 # ------------------------------------------------------------------------------
@@ -46,15 +46,21 @@ publisher:
 contributor_as_it_appears:
 
 contributor:
-  - id: jkeller
+  - id: bgrenville
     type: primary
-    first_name: Judith
-    last_name: Keller
-    title: Senior Curator of Photographs
-    affiliation: J. Paul Getty Museum
-    bio: "Judith Keller joined the J. Paul Getty Museum in 1986 and since 2008 was an Associate Curator of Photographs. In 2010, she was named the Senior Curator of Photographs. Keller received her B.A. in Art History and a Masters in Museum Practice and Art History from the University of Michigan at Ann Arbor. She also completed course work for a Phd. in Art History at the University of Michigan. Prior to her tenure at the Getty, Keller worked at The University of Michigan Museum of Art (1979 – 1981) and at the Archer M. Huntington Art Gallery (now the Blanton Museum of Art) at The University of Texas, Austin, as Curator of Prints and Drawings."
-    url: https://news.getty.edu/judith-keller-named-senior-curator-photographs-at-j-paul-getty-museum.htm
-    image: contributors/judith-keller.jpg
+    first_name: Bruce
+    last_name: Grenville
+    title: Senior Curator
+    affiliation: Vancouver Art Gallery
+    bio: "Bruce Grenville was the Senior Curator at the Vancouver Art Gallery from 1997 to 2022. During that time he organized many thematic group exhibitions including *The Imitation Game: Visual Culture in the Age of Artificial Intelligence* (2022);  *Cabin Fever* (2018), an historical survey of the cabin typology in North American architecture and visual culture; *MashUp: The Birth of Modern Culture* (2016), an exhibition and publication focused on the history of mashup culture from 1912 to the present; *Massive Change: The Future of Global Design* (2004), a survey of contemporary design, conceived and presented in collaboration with Bruce Mau Design and the Institute Without Boundaries; and *Home and Away: Crossing Cultures on the Pacific Rim* (2003), a look at the work of six artists who share a history of emigration and diaspora on the Pacific Rim. He also organized numerous solo exhibitions for artists including Carol Sawyer, Janet Cardiff and George Bures Miller, Michael Lin, Fiona Tan, Stan Douglas, Franz West, Wang Du, Gathie Falk, Dominique Blain, Komar and Melamid, Arnaud Maggs, Christos Dikeakos, Ruth Cuthand, Mary Scott and Jack Goldstein."
+
+  - id: gentis
+    type: primary
+    first_name: Glenn
+    last_name: Entis
+    title: Guest Curator
+    affiliation: 
+    bio:
 
 # ------------------------------------------------------------------------------
 # Copright & License

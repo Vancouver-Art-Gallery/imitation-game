@@ -1,5 +1,5 @@
 ---
-title: The Imitation Game
+title: 
 layout: cover
 order: 1
 menu: false
