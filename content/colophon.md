@@ -20,7 +20,7 @@ This publication was created using Quire<sup>TM</sup>, a multiplatform publishin
 
 © 2023 Vancouver Art Gallery
 
-ISBN 978-1-927656-58-7
+ISBN 978-1-927656-55-6
 
 All rights reserved. No part of this book may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, without the prior written consent of the publisher.
 
