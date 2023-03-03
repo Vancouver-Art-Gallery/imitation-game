@@ -21,6 +21,8 @@ This exhibition is organized by the Vancouver Art Gallery and curated by Bruce G
 
 ## An Interactive Introduction
 
+{% figure 'interactiveintro' %}
+
 This interactive introduction invites visitors to explore the range of images, objects and ideas that shape this exhibition. Visitors may be familiar with the use of artificial intelligence (AI) in their encounters with the preference engines[^3] that select their online music, videos or shopping, but the use of AI as an essential tool in a wide range of creative processes is often invisible.
 
 The interactive installation employs a basic form of AI that combines computer vision, machine learning and neural networks that analyze hand gestures in real time and trigger an appropriate response to visitors' interactions. The images and information on this wall are addressed in greater depth throughout the exhibition.

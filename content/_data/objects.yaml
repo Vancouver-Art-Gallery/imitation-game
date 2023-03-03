@@ -155,7 +155,7 @@ object_list:
       - id: "bjarke1"
 
   - id: 27
-    year: 2022
+    year: "2018--22"
     figure:
       - id: "eaton1"
       - id: "eaton2"
@@ -166,14 +166,14 @@ object_list:
       - id: "eaton7"
 
   - id: 25
-    year: "2017--22"
+    year: "2022"
     figure:
       - id: "pennefather1"
       - id: "pennefather2"
       - id: "pennefather3"
 
   - id: 26
-    year: "2018--22"
+    year: "2017--22"
     figure:
       - id: "chung1"
       - id: "chung2"
