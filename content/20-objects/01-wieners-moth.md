@@ -1,11 +1,12 @@
 ---
 label: 01
 title: Norbert Wiener's Moth
-subtitle: 1949
+subtitle: 
 layout: entry
 order: 202
 presentation: side-by-side
-class: 
+object:
+ - id: 1 
 ---
 
 Norbert Wiener was an American mathematician and philosopher who joined the faculty at MIT in 1919. He is renowned for his collaborative work in the 1920s on early computers, and during World War II was active in a small group of creative interdisciplinary thinkers who produced the first intelligent automated machines. This interdisciplinary view spawned several new fields of research including: communications, computation, automation, information theory, neuroscience, and most notably, cybernetics.[^1] The latter was named by Wiener in his book, *Cybernetics: Control and Communication in the Animal and the Machine* (1948).

@@ -1,11 +1,12 @@
 ---
 label: 15
 title: Algorithmic Justice League
-subtitle: 2016
+subtitle:
 layout: entry
 order: 216
 presentation: side-by-side
-class: 
+object:
+ - id: 15 
 ---
 
 The Algorithmic Justice League (AJL) was formed in 2016 by Joy Buolamwini, a computer scientist and digital activist. The AJL began its work with a decisive critique of the facial recognition software that had been rapidly adopted by most of the major tech companies---Microsoft, Facebook, Google, IBM, Megvii, Tencent, and so on---to produce their own databases and sell their services to a wide variety of commercial and public enterprises in 2015.

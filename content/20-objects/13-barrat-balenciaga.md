@@ -1,11 +1,12 @@
 ---
 label: 13
 title: Robbie Barrat x Balenciaga
-subtitle: 2018
+subtitle:
 layout: entry
 order: 214
 presentation: side-by-side
-class: 
+object:
+ - id: 13 
 ---
 
 In the summer of 2018, the artist and programmer Robbie Barrat wrote a short post to his Twitter feed: "I'm doing something with fashion and AI but I don't know what yet." Later that day, he identified that he would use Facebook's DensePose dataset for training and testing. Shortly after, Barrat posted an image of the Balenciaga website noting that it already looked like a readymade dataset, and then posted to say that he had written a short program---"only 4 lines long"---to scrape all the images from Balenciaga's online lookbooks.

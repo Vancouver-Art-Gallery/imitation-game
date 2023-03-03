@@ -1,10 +1,11 @@
 ---
 title: Scott Eaton
-subtitle: 2018--22
+subtitle: 
 layout: entry
 order: 403
 presentation: side-by-side
-class: 
+object:
+- id: 27 
 ---
 
 Scott Eaton is an American-born artist based in London. As a long-time student of the human figure, Eaton has built a commercial database of human figures---both still and in motion---and has produced an extensive body of photographic and hand-drawn figurative work. He teaches human anatomy and figure drawing for artists, and consults for a variety of video game and animation production houses.

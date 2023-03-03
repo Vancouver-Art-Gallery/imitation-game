@@ -1,11 +1,12 @@
 ---
 label: 07
 title: Boids and Autonomous Agents
-subtitle: 1987
+subtitle: 
 layout: entry
 order: 208
 presentation: side-by-side
-class: 
+object:
+ - id: 7 
 ---
 
 In 1987, Craig Reynolds, an AI and computer graphics researcher, introduced "boids,"[^1] a program that simulates complex flocking motions---the collective motion of self-propelled entities like birds---using simple rules that would allow each "boid" to act as an independent agent.

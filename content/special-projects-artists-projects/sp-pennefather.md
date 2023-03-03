@@ -1,10 +1,11 @@
 ---
 title: Patrick Pennefather
-subtitle: 2022 
+subtitle: 
 layout: entry
 order: 401
 presentation: side-by-side
-class: 
+object:
+ - id: 25 
 ---
 
 What does AI sound like?

@@ -8,25 +8,182 @@ object_display_order:
 object_list:
 
   - id: 1
-    title: Human Erosion in California / Migrant Mother
-    artist: Dorothea Lange
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 34.1 cm × 26.8 cm (13 <sup>7</sup>⁄<sub>16</sub> in × 10 <sup>9</sup>⁄<sub>16</sub> in.)
-    location: J. Paul Getty Museum
-    link:  https://www.getty.edu/art/collection/object/108E2E
+    year: 1949
     figure:
-      - id: "cat-1"
+      - id: "moth1"
+      - id: "moth2"
+      - id: "moth3"
 
   - id: 2
-    title: Bud Fields and His Wife Ivy, and His Daughter Ellen, Hale County, Alabama
-    artist: Walker Evans
-    year: 1936
-    medium: Gelatin silver print
-    dimensions: 19.4 x 24.4 (7 <sup>5</sup>⁄<sub>8</sub> x 9 <sup>5</sup>⁄<sub>8</sub> in.)
-    location: J. Paul Getty Museum
-    link: https://www.getty.edu/art/collection/object/104A2K
+    year: 1950
     figure:
-      - id: "cat-2"
-      - id: "cat-2-b"
-      - id: "cat-2-c"
+      - id: "turing1"
+      - id: "turing2"
+      - id: "turing3"
+
+  - id: 4
+    year: 1968
+    figure:
+      - id: "serendipity1"
+
+  - id: 3
+    year: 1968
+    figure:
+      - id: "odyssey1"
+      - id: "odyssey2"
+      - id: "odyssey3"
+      - id: "odyssey4"
+
+  - id: 5
+    year: "1971--73"
+    figure:
+      - id: "cybersyn1"
+      - id: "cybersyn2"
+      - id: "cybersyn3"
+      - id: "cybersyn4"
+
+  - id: 6
+    year: 1989
+    figure:
+      - id: "simcity1"
+
+  - id: 7
+    year: 1987
+    figure:
+      - id: "boids1"
+
+  - id: 8
+    year: 1994
+    figure:
+      - id: "cooper1"
+      - id: "cooper2"
+      - id: "copper3"
+
+  - id: 9
+    year: 2007
+    figure:
+      - id: "bina1"
+      - id: "bina2"
+
+  - id: 10
+    year: 2007
+    figure:
+      - id: "imagenet1"
+      - id: "imagenet2"
+
+  - id: 11
+    year: 2016
+    figure:
+      - id: "alphago1"
+
+  - id: 12
+    year: 2015
+    figure:
+      - id: "gan1"
+
+  - id: 13
+    year: 2018
+    figure:
+      - id: "balenciaga1"
+      - id: "balenciaga2"
+
+  - id: 14
+    year: 2018
+    figure:
+      - id: "morpheus1"
+
+  - id: 15
+    year: 2016
+    figure:
+      - id: ""
+      - id: ""
+      - id: ""
+
+  - id: 16
+    year: 2021
+    figure:
+      - id: "animation1"
+
+  - id: 17
+    year: 2020
+    figure:
+      - id: "oxman1"
+      - id: "oxman2"
+      - id: "oxman3"
+      - id: "oxman4"
+
+  - id: 18
+    year: 2021
+    figure:
+      - id: "smartphone1"
+
+  - id: 19
+    year: 2021
+    figure:
+      - id: "metahuman1"
+      - id: "metahuman2"
+
+  - id: 20
+    year: 2021
+    figure:
+      - id: "emotions1"
+      - id: "emotions2"
+
+  - id: 21
+    year: "2021--22"
+    figure:
+      - id: "creepers1"
+
+  - id: 22
+    year: "2021--22"
+    figure:
+      - id: "airegan1"
+      - id: "airegan2"
+      - id: "airegan3"
+      - id: "airegan4"
+
+  - id: 23
+    year: 2018
+    figure:
+      - id: "frid1"
+      - id: "frid2"
+      - id: "frid3"
+
+  - id: 24
+    year: 2020 
+    figure:
+      - id: "bjarke1"
+
+  - id: 27
+    year: 2022
+    figure:
+      - id: "eaton1"
+      - id: "eaton2"
+      - id: "eaton3"
+      - id: "eaton4"
+      - id: "eaton5"
+      - id: "eaton6"
+      - id: "eaton7"
+
+  - id: 25
+    year: "2017--22"
+    figure:
+      - id: "pennefather1"
+      - id: "pennefather2"
+      - id: "pennefather3"
+
+  - id: 26
+    year: "2018--22"
+    figure:
+      - id: "chung1"
+      - id: "chung2"
+      - id: "chung3"
+      - id: "chung4"
+      - id: "chung5"
+      - id: "chung6"
+      - id: "chung7"      
+
+  - id: 28
+    year: 2022
+    figure:
+      - id: "zombie1"

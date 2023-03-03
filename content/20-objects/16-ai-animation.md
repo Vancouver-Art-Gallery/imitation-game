@@ -1,11 +1,12 @@
 ---
 label: 16
 title: AI in Animation
-subtitle: 2021
+subtitle:
 layout: entry
 order: 217
 presentation: side-by-side
-class: 
+object:
+ - id: 16 
 ---
 
 Much of the AI used in day-to-day animation production is relatively invisible, behind-the-scenes work: colourization, removal of unwanted objects, denoising, rotoscoping (animating a character or scene to match a live action reference), lip-syncing, automating workflows, adding 3D depth or new features to still images, etc. Although these areas are important in current animation production, they are not represented here precisely because they are, by design, largely invisible.

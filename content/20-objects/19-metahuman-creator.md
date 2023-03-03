@@ -1,11 +1,12 @@
 ---
 label: 19
 title: MetaHuman Creator
-subtitle: 2021
+subtitle:
 layout: entry
 order: 220
 presentation: side-by-side
-class: 
+object:
+ - id: 19 
 ---
 
 The test of machine intelligence proposed by Alan Turing in 1950 involved communication via teletype. But the perception of human intelligence involves much more than rudimentary communication. Every day, we judge other people by their ability to respond in a socially acceptable manner, act intelligently, and make the expected eye contact or facial expression.

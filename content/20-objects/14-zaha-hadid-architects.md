@@ -1,11 +1,12 @@
 ---
 label: 14
 title: Zaha Hadid Architects -- Morpehus Hotel
-subtitle: 2018
+subtitle:
 layout: entry
 order: 215
 presentation: side-by-side
-class: 
+object:
+ - id: 14 
 ---
 
 Zaha Hadid was first among a cohort of international architects who embraced the tools of parametric architecture,[^1] giving shape to a concept of design that was fundamentally informed by the principles and tools of artificial intelligence.

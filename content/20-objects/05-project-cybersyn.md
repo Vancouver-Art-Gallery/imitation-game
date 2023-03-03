@@ -1,11 +1,12 @@
 ---
 label: 05
 title: Project Cybersyn
-subtitle: 1971--73
+subtitle: 
 layout: entry
 order: 206
 presentation: side-by-side
-class: 
+object:
+ - id: 5 
 ---
 
 Using some of the basic principles of cybernetics theory---communication and control---Stafford Beer, a consultant to the newly-elected Salvador Allende government (1970--73), devised a plan to enable a dynamic, socialist-driven transformation of the Chilean economy.

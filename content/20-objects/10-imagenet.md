@@ -1,11 +1,12 @@
 ---
 label: 10
 title: ImageNet
-subtitle: 2009
+subtitle:
 layout: entry 
 order: 211
 presentation: side-by-side
-class: 
+object:
+ - id: 10 
 ---
 
 In a world that produces and uploads more than two billion images to social media every day, it may seem trivial that the ImageNet visual database holds just fourteen million images. Yet, this database has played a pivotal role in the development of global AI systems that identify, classify and create images. Computer vision---object detection, facial recognition,[^1] scene reconstruction, image classification, pattern detection, edge detection, video tracking, etc.---is the cornerstone of contemporary AI, and arguably the most controversial.

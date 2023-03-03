@@ -1,11 +1,12 @@
 ---
 label: 11
 title: AlphaGo -- Game 2 -- Move 37
-subtitle: 2016
+subtitle:
 layout: entry
 order: 212
 presentation: side-by-side
-class: 
+object:
+ - id: 11 
 ---
 
 Developed by Google subsidiary, DeepMind, AlphaGo is a computer program that plays Go, a popular strategy game. AlphaGo versus Lee Sedol---a best out of five Go tournament held in Seoul, South Korea in March 2016---pitted Go master Lee against the computer program. AlphaGo employed several deep neural networks, which it trained by playing against itself and strengthened with reinforcement learning[^1]. In other words, AlphaGo learned more from its own experience than it did from the experts who programmed it.

@@ -1,11 +1,12 @@
 ---
 label: 02
 title: Alan Turing -- The Imitation Game
-subtitle: 1950
+subtitle: 
 layout: entry
 order: 203
-presentation: side-by-side
-class: 
+presentation: side-by-side 
+object:
+ - id: 2	
 ---
 
 "I propose to consider the question, 'Can machines think?'" With this deceptively simple declaration Alan Turing started a conversation that has resonated for more than 70 years, and has decisively shaped the development of artificial intelligence.
@@ -56,6 +57,6 @@ Mead's concept drawing for the Voight-Kampff machine is at once futuristic and a
 
 [^1]: The Turing test, originally called 'the imitation game' by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behavior equivalent to, or indistinguishable from, that of a human.
 
-[^2]: The Turk, also known as the Mechanical Turk or Automaton Chess Player, was a fake chess-playing machine constructed in the late 18^th^ century.
+[^2]: The Turk, also known as the Mechanical Turk or Automaton Chess Player, was a fake chess-playing machine constructed in the late 18<sup>th</sup> century.
 
 {% endbackmatter %}

@@ -1,10 +1,11 @@
 ---
 title: Creepers
-subtitle: 2021--22 
+subtitle:  
 layout: entry
 order: 301
 presentation: side-by-side
-class: 
+object:
+ - id: 21 
 ---
 
 Preference engines guide us daily as we move through the world. They suggest products, services and information. They give shape to our experiences, behaviours and choices. The news you read, the music you listen to, the clothing you buy, the video you watch, and the information you seek were probably offered by a preference engine. In this sense, we have all become data within a massive artificial intelligence that tirelessly monitors our activities with the intent of gauging our

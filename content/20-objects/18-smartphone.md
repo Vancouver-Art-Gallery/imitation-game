@@ -1,11 +1,12 @@
 ---
 label: 18
 title: The Smartphone
-subtitle: 2021
+subtitle: 
 layout: entry
 order: 219
 presentation: side-by-side
-class: 
+object:
+ - id: 18 
 ---
 
 The contemporary smartphone is a miracle in your pocket, packing far more computing power than the multimillion dollar supercomputer Deep Blue that defeated world chess champion Garry Kasparov in 1997.
@@ -27,7 +28,7 @@ AI is not just about processing information---it is also about sensing and colle
 -   Accelerometer: speed and direction of motion
 -   Gyroscope: small shifts in physical orientation
 -   Magnetometer: digital compass
--   Global Positioning System (GPS): terrestrial location
+-   Global Positioning System (GPS): terrestrial location
 -   Proximity Sensor: how far objects are from phone
 -   Ambient Light Sensor
 -   Microphone

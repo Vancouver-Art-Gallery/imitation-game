@@ -1,10 +1,11 @@
 ---
 title: "*airegan"
-subtitle: 2021--22
+subtitle: 
 layout: entry
 order: 302
 presentation: side-by-side
-class: 
+object:
+ - id: 22 
 ---
 
 The design group at \*airegan produces a complex working model that might best be described as having some similarity to the latent space of a neural network---which is to say, a multidimensional space that we cannot interpret directly, but which encodes a meaningful internal representation of externally observed events.

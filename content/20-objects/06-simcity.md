@@ -1,11 +1,12 @@
 ---
 label: 06
 title: SimCity
-subtitle: 1989
+subtitle: 
 layout: entry
 order: 207
 presentation: side-by-side
-class: 
+object:
+ - id: 6 
 ---
 
 Different than a typical computer game, *SimCity* is a city simulator---each player (or "SimCity Mayor") designs and manages their own city, placing buildings, roads, railroads and power lines; setting civic spending priorities; and making key policy decisions such as tax rates, zoning, and the construction of prisons or military facilities. For many players, the potential disasters---earthquakes, tornadoes, fires and even giant monsters---were the most fun part of the gaming experience. *SimCity* has been credited with inspiring a generation of urban planners and government officials.

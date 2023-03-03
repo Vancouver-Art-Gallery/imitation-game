@@ -1,11 +1,12 @@
 ---
 label: "08"
 title: Muriel Cooper -- Information Landscapes
-subtitle: 1994
+subtitle: 
 layout: entry
 order: 209
 presentation: side-by-side
-class: 
+object:
+ - id: 8 
 ---
 
 In 1973, Muriel Cooper founded the Visible Language Workshop (VLW) at MIT, where she played a pivotal role in the exploration of computer graphics and typography in modern design. The principal mission of the VLW was to develop design strategies and devices for manipulating information in dynamic contexts. In 1985, the VLW was amalgamated with MIT's Architecture Machine Group and the Center for Advanced Visual Studies to form the MIT Media Lab, which became one of the most influential centres for the study of artificial intelligence in the world.

@@ -1,10 +1,11 @@
 ---
 title: Amber Frid-Jimenez
-subtitle: 2018
+subtitle: 
 layout: entry
 order: 303
 presentation: side-by-side
-class: 
+object:
+ - id: 23 
 ---
 
 Amber Frid-Jimenez is a Vancouver-based interdisciplinary artist with a background in computational design and the creation of experimental computer programs, platforms and applications.

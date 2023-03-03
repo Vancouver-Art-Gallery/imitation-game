@@ -1,10 +1,11 @@
 ---
 title: Sougwen Chung
-subtitle: 2017--22
+subtitle: 
 layout: entry
 order: 402
 presentation: side-by-side
-class: 
+object:
+ - id: 26 
 ---
 
 Sougwen Chung is a Chinese-Canadian artist and researcher currently based in London, England. Over the past decade, she has engaged in research that links humans and machines in an intricate and compelling collaboration. More recently she has extended that collaboration to include a broader range of ecologies---seeking to produce new modes of creativity that blur the conventional boundaries between human and non-human knowledge.

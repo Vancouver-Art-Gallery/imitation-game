@@ -1,10 +1,11 @@
 ---
 title: The Zombie Formalist
-subtitle: 2022
+subtitle:
 layout: entry
 order: 404
 presentation: side-by-side
-class: 
+object:
+ - id: 28 
 ---
 
 The Zombie Formalist is the first product of its kind.  

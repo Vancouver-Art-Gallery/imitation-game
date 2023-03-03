@@ -1,11 +1,12 @@
 ---
 label: 17
 title: Neri Oxman -- Synthetic Apiary
-subtitle: 2020
+subtitle:
 layout: entry
 order: 218
 presentation: side-by-side
-class: 
+object:
+ - id: 17 
 ---
 
 In 2010, Neri Oxman established the MIT Mediated Matter Group at the MIT Media Lab. It is organized as a collaborative, interdisciplinary team that links engineering, computational design and artificial intelligence. Oxman's goal is simple and direct---she seeks to demonstrate how new technologies can inform the future of design and the making of objects. From this starting point Oxman and the MIT Mediated Matter Group have produced an extraordinary body of work.

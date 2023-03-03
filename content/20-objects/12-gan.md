@@ -1,11 +1,12 @@
 ---
 label: 12
 title: GAN
-subtitle: 2015
+subtitle: 
 layout: entry
 order: 213
 presentation: side-by-side
-class: 
+object:
+ - id: 12 
 ---
 
 GAN[^1] (or Generative Adversarial Network) is a class of machine learning techniques that pits two neural networks against each other for training purposes.

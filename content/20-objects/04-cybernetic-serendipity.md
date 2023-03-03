@@ -1,11 +1,12 @@
 ---
 label: 04
 title: Cybernetic Serendipity
-subtitle: 1968
+subtitle: 
 layout: entry
 order: 205
-presentation: side-by-side
-class: 
+presentation: side-by-side 
+object:
+ - id: 4	
 ---
 
 *Cybernetic Serendipity: The Computer and the Arts* was a landmark exhibition mounted at the Institute of Contemporary Arts (ICA), London, in 1968, and organized by Jasia Reichardt, curator and associate director of the ICA.

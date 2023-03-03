@@ -1,11 +1,12 @@
 ---
 label: 03
 title: "2001: A Space Odyssey"
-subtitle: 1968
+subtitle: 
 layout: entry
 order: 204
-presentation: side-by-side
-class: 
+presentation: side-by-side 
+object:
+ - id: 3
 ---
 
 *2001: A Space Odyssey* (1968) is a landmark in the representation of artificial intelligence in visual culture. From the earliest moments of the film, we are cast about in space and time in ways that distort and upend our perceptions of reality. At the centre of the film is the HAL 9000 computer. HAL is the acronym for a Heuristically programmed Algorithmic computer---which is to say, a computer optimized for problem solving, self-discovery and decision-making, though inherently vulnerable to error. It is adept at independently controlling complex machines, interacting with humans in ways that would certainly pass the Turing Test, and using computer vision to track a wide range of activities, including the reading of lips.

@@ -1,11 +1,12 @@
 ---
 label: 20
 title: Emotion Recognition
-subtitle: 2021
+subtitle:
 layout: entry
 order: 221
 presentation: side-by-side
-class: 
+object:
+ - id: 20 
 ---
 
 Face recognition software is among the most controversial applications of artificial intelligence. Fundamental questions regarding bias, racial profiling, privacy, civil liberties and accuracy form the core complaints. But facial recognition is also one of the most ubiquitous forms of AI. If you've ever posted a photo or video to Facebook, WeChat, Instagram or TikTok; applied for a driver's license or passport; or engaged in any activity where an image of your face can be connected to your name, then that image has likely become a template within a facial recognition database.

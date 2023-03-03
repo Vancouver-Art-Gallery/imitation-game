@@ -1,10 +1,11 @@
 ---
 title: Bjarke Ingels Group Vancouver House
-subtitle: 2020  
+subtitle:  
 layout: entry
 order: 304
 presentation: side-by-side
-class: 
+object:
+ - id: 24 
 ---
 
 Responding to a complex building site, the Bjarke Ingels Group utilized the power of parametric design to produce a Vancouver landmark. Vancouver House was designed in response to a number of unique parameters that resulted from its constrained site, an option for expanded airspace, and a commitment to public space at the foot of the tower.
