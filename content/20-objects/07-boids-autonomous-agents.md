@@ -1,5 +1,5 @@
 ---
-label: 07
+label: 7
 title: Boids and Autonomous Agents
 subtitle: 
 layout: entry

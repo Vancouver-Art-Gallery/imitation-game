@@ -1,5 +1,5 @@
 ---
-label: 01
+label: 1
 title: Norbert Wiener's Moth
 subtitle: 
 layout: entry

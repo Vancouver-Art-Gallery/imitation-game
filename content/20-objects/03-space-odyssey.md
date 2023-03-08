@@ -1,5 +1,5 @@
 ---
-label: 03
+label: 3
 title: "2001: A Space Odyssey"
 subtitle: 
 layout: entry

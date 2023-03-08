@@ -1,5 +1,5 @@
 ---
-label: 06
+label: 6
 title: SimCity
 subtitle: 
 layout: entry

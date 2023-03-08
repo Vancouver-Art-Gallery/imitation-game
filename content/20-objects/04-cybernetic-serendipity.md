@@ -1,5 +1,5 @@
 ---
-label: 04
+label: 4
 title: Cybernetic Serendipity
 subtitle: 
 layout: entry

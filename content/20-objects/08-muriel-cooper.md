@@ -1,5 +1,5 @@
 ---
-label: "08"
+label: 8
 title: Muriel Cooper -- Information Landscapes
 subtitle: 
 layout: entry

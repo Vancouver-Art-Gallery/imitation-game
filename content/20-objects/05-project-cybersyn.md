@@ -1,5 +1,5 @@
 ---
-label: 05
+label: 5
 title: Project Cybersyn
 subtitle: 
 layout: entry

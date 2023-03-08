@@ -57,7 +57,7 @@ object_list:
     figure:
       - id: "cooper1"
       - id: "cooper2"
-      - id: "copper3"
+      - id: "cooper3"
 
   - id: 9
     year: 2007
@@ -91,13 +91,6 @@ object_list:
     year: 2018
     figure:
       - id: "morpheus1"
-
-  - id: 15
-    year: 2016
-    figure:
-      - id: ""
-      - id: ""
-      - id: ""
 
   - id: 16
     year: 2021
