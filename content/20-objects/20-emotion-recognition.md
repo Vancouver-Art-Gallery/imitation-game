@@ -17,6 +17,8 @@ However, much of the emotion recognition software that is produced today has its
 
 <br>
 
+{% backmatter %}
+
 This interactive encounter with emotion recognition is the result of a collaboration with Vancouver's Centre for Digital Media, under the direction of Larry Bafia. Graduate students in this program worked as a team to design, program and produce this wall. Many thanks to that talented team:
 
 Valentina Forte-Hernandez: Project Manager
@@ -28,3 +30,5 @@ Vlad Ryzhov contributed additional post-production programming support
 The Centre for Digital Media was founded in 2007 and is a unique graduate program whose degree is imprinted with the seals of its four partner institutions: University of British Columbia, Emily Carr University of Art + Design, Simon Fraser University and British Columbia Institute of Technology.
 
 The emotion recognition software used in this interactive installation is produced by Visage Technologies, founded in Linköping, Sweden.
+
+{% endbackmatter %}

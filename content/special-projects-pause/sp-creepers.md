@@ -17,6 +17,8 @@ We commissioned *Creepers* as a tool to track visitor movement and attention in 
 
 <br>
 
+{% backmatter %}
+
 This interactive encounter with visitor tracking is the result of a collaboration with Vancouver's Centre for Digital Media, under the direction of Larry Bafia. Graduate students in this program worked as a team to design, program and produce this wall.
 
 Many thanks to that talented team:
@@ -31,3 +33,5 @@ Many thanks to that talented team:
 Cindy Shi contributed additional post-production programming support.
 
 The Centre for Digital Media was founded in 2007 and is a unique graduate program whose degree is imprinted with the seals of its four partner institutions: University of British Columbia, Emily Carr University of Art + Design, Simon Fraser University and British Columbia Institute of Technology.
+
+{% endbackmatter %}
