@@ -25,13 +25,21 @@ The three rules (or steering behaviours) for "boids" were simple:
 
 "Boids" was first presented by Craig Reynolds in 1986 as a technical paper at SIGGRAPH, the prestigious annual computer graphics conference. In 1987, Reynolds premiered a short computer animated film, *Stanley & Stella*, which featured a flock of birds and a school of fish animated using the "boids"algorithm. In 1998, Reynolds was honored with an Academy of Motion Pictures Scientific and Technical Award in recognition of "his pioneering contributions to the development of three-dimensional computer animation for motion picture production."
 
-**WETA**
+<details>
+<summary><b>WETA</b></summary>
 
 WETA is the New Zealand-based studio responsible for the spectacular special effects for the *Lord of the Rings* films, among many others. The crowd scenes produced by WETA are among the most influential and sophisticated applications of Craig Reynolds' "boids" algorithm. In the WETA generated scenes shown here, thousands of orcs, humans, dragons and other creatures are visible at the same time, exhibiting varied and complex action that would be impossible for human animators to produce. These extraordinary scenes offer a sophisticated balance of fantastical scale and believable behaviour, satisfying both our imaginations and our rational minds.
+</details>
 
-**Autonomous Vehicles**
+<br>
+
+<details>
+<summary><b>Autonomous Vehicles</b></summary>
 
 Autonomous vehicles are another example of a flock of independent agents. The underlying idea is the same, although the sophistication necessary to guide a vehicle is vastly greater than that required for "boids" or movie special effects. Computer vision, ultrasonic sensors, LiDAR (Light Detection and Ranging) and radar, GPS, and up-to-date detailed mapping all must be fast, accurate and reliable. If a "boid" or a special effects soldier collides, no one gets hurt. This is not the case with vehicles, where a single collision could prove lethal. Not surprisingly, there are spirited debates regarding the ethical and moral challenges posed by fully autonomous vehicles.
+</details>
+
+<br>
 
 {% backmatter %}
 

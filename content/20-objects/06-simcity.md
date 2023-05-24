@@ -19,13 +19,19 @@ These video clips present a sample of the features in the original 1989 edition.
 
 *SimCity*'s creator, Will Wright, went on to create *The Sims* and *Spore*, and pioneered an entire genre of simulator-based games.
 
-**Jay Forrester**
+
+<details>
+<summary><b>Jay Forrester</b></summary>
 
 Jay Forrester pioneered the field of system dynamics---the use of computer simulations to model complex systems and interactions. One of the areas that he and his colleagues at MIT tackled was urban dynamics---the behaviour and sometimes surprising interactions of the various policies and processes that shape a city. Forrester's dedication to clear mental models and rigorous computer simulations produced an early and influential real-world use of computer intelligence.
 
 After publishing *Urban Dynamics* in 1969, he expanded his work to a global scale, tackling issues of world economy, population and the environment in *World Dynamics*, published in 1971. Here, he notably predicts the collapse of our socio-technological-natural system by the mid-21st century. In addition to influencing a generation of urban planners and computer scientists, Forrester has been cited by game designer Will Wright as one of the main inspirations behind the urban simulation video game, *SimCity*.
+</details>
 
-**Sidewalk Labs**
+<br>
+
+<details>
+<summary><b>Sidewalk Labs</b></summary>
 
 A "Smart City" uses technology to collect information, make decisions and manage municipal processes intelligently. In contrast to the purely "what if" simulations of Jay Forrester and the video game, *SimCity*, Smart City systems are taking on a growing role in the actual management of many facets of urban life---transportation, power, water, health services, zoning, crime detection, and, most controversially, surveillance. AI and the Internet of Things (IoT)---things not normally considered to be computers connected to the internet---combine to create a vision of a city as a linked information system whose management can be analyzed and optimized by AI algorithms. Among the many examples of Smart City initiatives, Sidewalk Toronto, which launched in 2015 (and abruptly ended in 2020), was notable for the number of commercial spin-offs it generated. The video displayed here shows glimpses of three such spin-offs:
 
@@ -34,3 +40,4 @@ A "Smart City" uses technology to collect information, make decisions and manage
 **Delve:** generative design and analysis of building developments
 
 **Mesa:** smart optimization of energy usage within building
+</details>

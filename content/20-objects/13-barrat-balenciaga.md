@@ -19,7 +19,8 @@ Drawing on the extensive online documentation (lookbooks, catalogues and marketi
 
 Using a generative adversarial network (GAN), Barrat was able to closely monitor the machine learning process he had designed, and identify selected images from within the GAN's latent space (all the possible images laid out in highly dimensional space) for consideration. It is this aptly named latent space---hidden, imperceptible, inchoate---that is so often utilized by contemporary artists and designers who work with neural networks.
 
-**Acne Studios**
+<details>
+<summary><b>Acne Studios</b></summary>
 
 In 2019, Acne Studios (based in Stockholm, Sweden) invited Robbie Barrat to collaborate with their designers on a new Men's Fall/Winter collection that applied ideas he had developed while working on the Balenciaga images.
 
@@ -28,3 +29,4 @@ Using a similar process, Barrat trained a neural network on images of Acne's pre
 To facilitate the transition from design sketch to finished garment, Barrat developed digital tools for the Acne designers that allowed them to click on an area of an outfit and alter it according to a variety of options. This type of interface is now common to much of GAN-based image production, bringing it into closer alignment with conventional image editing.
 
 Finally, recognizing the important role of fabric in those GAN-based designs, Barrat also produced imagery which could be directly printed onto garments.
+</details>

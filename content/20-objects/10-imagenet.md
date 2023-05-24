@@ -15,19 +15,27 @@ Each of the fourteen million images in the ImageNet database has been labelled w
 
 ImageNet is an astounding feat, a critical component of global AI research, easily accessible for no cost, and supported by sustained, collaborative and responsible research. But it is also a recipe for disaster---fundamental questions of privacy (the images were scraped from the Internet without permissions); bias[^2] (assumptions within labelling and the classification system); and technical error have challenged its authoritative status. In recent years, the ImageNet research team, led by Fei-Fei Li at Stanford University, has actively addressed many of these concerns.
 
-**Nicolas Malevé, 12 Hours of ImageNet**
+<details>
+<summary><b>Nicolas Malevé, 12 Hours of ImageNet</b></summary>
 
 In 2019, for an exhibition at The Photographers' Gallery in London, artist and programmer Nicolas Malevé wrote a computer script that cycled through ImageNet at a speed of ninety milliseconds per image, traversing the entire dataset[^3] in a period of two months. The resulting display paused at random points to enable the viewer to "see" some of the images and their labelling. Malevé's project raises questions about the relation of scale between the overwhelming quantities of images needed to train algorithms, and the human attention and labour required to curate, annotate and verify the photographs.
 
 *12 Hours of ImageNet* offers an excerpt of the larger project, a fragment of a database that is itself a tiny fragment of the archive of images circulating in the world.
+</details>
 
-**ImageNet Roulette**
+<br>
+
+<details>
+<summary><b>ImageNet Roulette</b></summary>
 
 On September 12, 2019, Kate Crawford, a professor at NYU, and artist Trevor Paglen launched an online project called ImageNet Roulette.
 
 Five days later, on September 17, 2019, the senior research team at ImageNet issued a research post announcing that they were removing more than half of the "person" images (600,040) from their ImageNet dataset.
 
 Why?
+</details>
+
+<br>
 
 {% backmatter %}
 

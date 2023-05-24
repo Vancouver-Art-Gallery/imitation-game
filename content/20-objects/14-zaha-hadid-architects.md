@@ -21,25 +21,37 @@ The building's program of use is complex, involving an intricate interplay of pu
 
 > *"Morpheus draws on ZHA's 40 years of research into the integration of interior and exterior, civic and private, solid and void, Cartesian and Einsteinian. Space is woven within structure to tie disparate programmes together and constantly make connections."*---Zaha Hadid Architects
 
-**Antoni Gaudí and Luigi Moretti**
+<details>
+<summary><b>Antoni Gaudí and Luigi Moretti</b></summary>
 
 While contemporary parametric architecture requires vast computational power, the history of architectural design includes some notable architects who used parametric principles in the prototyping and design of their buildings.
 
 Antoni Gaudí's legendary designs for La Sagrada Família Church and the Colònia Güell Chapel were achieved using a unique process combining ropes, weights, canvas and gravity, known as a funicular system.[^2] To calculate his designs, Gaudí hung ropes and chains attached to lead-filled sacks from the ceiling, arranged to reflect his preliminary drawings. Canvas was used to simulate the walls and vaults of the structure. By manipulating the length and location of the ropes and chains, Gaudí could alter the design, but maintain a clear understanding of the loads that would be exerted on the actual building. When a design was chosen, the structure was photographed, and the image was then traced and flipped to provide a viable design for the builders.
 
 Luigi Moretti's designs for a stadium were exhibited in the *Parametric Architecture* exhibition at the Milan Triennial XII (1960), and are generally regarded as the first representation of modern parametric architecture. His designs for Stadium N were achieved with nineteen parameters that included viewing angles and the economic cost of concrete.
+</details>
 
-**Frank Gehrt, Toyo Ito and Rem Koolhaas**
+<br>
+
+<details>
+<summary><b>Frank Gehrt, Toyo Ito and Rem Koolhaas</b></summary>
 
 Frank Gehry's fascination with materials and flowing surfaces requires an intensive computational process to transform his simple models in cardboard or wood into fluid and gleaming architectural forms like the Walt Disney Concert Hall. Gehry's studio played a key role in customizing the CATIA 3D modelling software used in the aerospace industry for architectural applications.
 
 Toyo Ito's design for the Serpentine Gallery Pavilion was derived from a cube that expanded as it was rotated. The fragmented shapes that arise from seven iterations of this parametrically determined process of rotation and extrusion form the external structure of the Pavilion.
 
 Rem Koolhaas and OMA's CCTV building in Beijing achieves its uncanny presence through the principles of parametric design. Its confounding form was produced through a process of design optimization that balanced the architects' conceptual and aesthetic goals with engineering and fabrication needs.
+</details>
 
-**Melike Altinisik**
+<br>
+
+<details>
+<summary><b>Melike Altinisik</b></summary>
 
 Melike Altinisik's supple design for the Çamlıca TV and Radio Tower reflects her focused interest in natural forms and forces. Altinisik described the design methodology as a computational process that allowed for integrated information gathering, which included the variables of the building's multi-purpose program, the engineering challenges of a super-tall tower, and its multiple viewpoints within the city and surrounding landscape. The building's flowing parametric curves suggest the movement of wind, and echo the undulating landscape that shapes Istanbul and the Bosporus.
+</details>
+
+<br>
 
 {% backmatter %}
 

@@ -15,6 +15,8 @@ Curiously, most art galleries and museums have actively avoided the type of moni
 
 We commissioned *Creepers* as a tool to track visitor movement and attention in this exhibition space. As visitors enter this portion of the exhibition, they are tracked by human detection software that assigns them an individual number and colour; and their movement is tracked and displayed on a nearby monitor with a coloured line that marks their path in real time. When they stop to look at an object or image, a slowly growing concentric circle marks the place and duration of their pause. With this simple tool, we can easily gauge visitor behaviour: do people look at everything in the room or only a few select things? What's the path of their movement? Do they pause to look at an artwork or read a label? How long do they stop? Which works attract the most attention? Which attract the least?
 
+<br>
+
 This interactive encounter with visitor tracking is the result of a collaboration with Vancouver's Centre for Digital Media, under the direction of Larry Bafia. Graduate students in this program worked as a team to design, program and produce this wall.
 
 Many thanks to that talented team:

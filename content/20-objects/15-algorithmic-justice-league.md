@@ -19,8 +19,10 @@ With this clear and compelling statement, the AJL introduces its call for action
 
 The AJL produces exhibitions, documentaries, spoken-word performances and events, and public talks and panels. Its many publications advocate for change and for meaningful oversight and regulation of artificial intelligence.
 
-**MegaPixels.cc and Exposing.ai**
+<details>
+<summary><b>MegaPixels.cc and Exposing.ai</b></summary>
 
 Critical challenges to the ungoverned and unethical use of facial recognition databases and software come from many different sources, and some of the most interesting critiques have emerged from artists with interdisciplinary practices.
 
 Critical challenges to the ungoverned and unethical use of facial recognition databases and software come from many different sources, and some of the most interesting critiques have emerged from artists with interdisciplinary practices.
+</details>

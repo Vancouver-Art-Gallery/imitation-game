@@ -15,6 +15,8 @@ While much of the concern around facial recognition is with the terms and condit
 
 However, much of the emotion recognition software that is produced today has its basis in Ekman's thesis---a reductive set of seven emotions and a belief in the cultural universality of those expressions. This is a framework that is especially amenable to computation and computer vision---and is equally appealing to the magical thinking that drives much of the marketing campaigns and advertising schemes of contemporary life.
 
+<br>
+
 This interactive encounter with emotion recognition is the result of a collaboration with Vancouver's Centre for Digital Media, under the direction of Larry Bafia. Graduate students in this program worked as a team to design, program and produce this wall. Many thanks to that talented team:
 
 Valentina Forte-Hernandez: Project Manager

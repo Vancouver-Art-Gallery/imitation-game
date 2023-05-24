@@ -15,7 +15,8 @@ The first network is known as the generator. It tries to make fake copies---of w
 
 The concept of a GAN architecture was first proposed by computer scientist Ian Goodfellow and his colleagues at the Université de Montréal in June 2014. It has become one of the most productive and influential architectures for machine learning, spawning what some researchers call the "GAN Zoo" of over 500 different published variations.
 
-**GANs Illustrated**
+<details>
+<summary><b>GANs Illustrated</b></summary>
 
 This animation illustrates the training process of a system of GAN neural networks. In this simplified but accurate representation, there are four main steps in each training cycle, or epoch. A GAN network may require thousands of epochs to reach sufficient quality. The principal steps are:
 
@@ -25,8 +26,12 @@ This animation illustrates the training process of a system of GAN neural networ
 -   **VALIDATE:** the discriminator network is shown which of its judgments were correct and which were incorrect
 
 After an epoch, the generator and discriminator networks are both adjusted based on the outcome of the just-completed training cycle. In each epoch, the generator's ability to produce high-quality fakes improves, as does the discriminator's accuracy. Together, they train each other to refine their abilities, often achieving highly realistic and believable results after numerous cycles.
+</details>
 
-**GAN Zoo**
+<br>
+
+<details>
+<summary><b>GAN Zoo</b></summary>
 
 Since their introduction in 2014, GAN networks have spawned a "GAN Zoo" of over 500 different published architectures and variations. Some of the most surprising applications of GAN networks have been in the creation and modification of art. This video presents a selection of GAN systems, along with the art that each network produces.
 
@@ -35,6 +40,9 @@ Since their introduction in 2014, GAN networks have spawned a "GAN Zoo" of over 
 **Style Transfer (and Artbreeder)** (2016): An image modification technique in which the AI system takes the style from one image or artist and applies it to another image. Artists using this tool will often put images through many generations of style transformations, mixing and tuning different styles along the way.
 
 **VQGAN+CLIP** (2021): Two networks work together to produce an image from a text prompt. An image producing GAN-trained network (the VQGAN) tries to match what a language processing network (CLIP) is looking for, and with each iteration gets closer to that match. Finding the right verbal description for an interesting image requires skill---the general approach is called "prompt engineering"[^2] because the human artist creates the work by providing and fine-tuning the verbal prompts.
+</details>
+
+<br>
 
 {% backmatter %}
 
