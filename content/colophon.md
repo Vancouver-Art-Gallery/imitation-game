@@ -14,7 +14,7 @@ Design: Michael Lis, Goodweather Studio
 Photography and Digital Image Preparation: 
 
 <br/>
-{% backmatter %}
+
 
 This publication was created using Quire<sup>TM</sup>, a multiplatform publishing tool created by the J. Paul Getty Trust
 
@@ -24,7 +24,6 @@ ISBN 978-1-927656-55-6
 
 All rights reserved. No part of this book may be reproduced, stored in a retrieval system or transmitted, in any form or by any means, without the prior written consent of the publisher.
 
-{% endbackmatter %}
 
 <br/>
 <br/>
